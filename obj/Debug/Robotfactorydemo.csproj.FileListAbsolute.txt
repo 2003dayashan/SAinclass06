@@ -1,0 +1,7 @@
+C:\Users\Dayashan\Documents\SA inclass\Robotfactorydemo\Robotfactorydemo\bin\Debug\Robotfactorydemo.exe.config
+C:\Users\Dayashan\Documents\SA inclass\Robotfactorydemo\Robotfactorydemo\bin\Debug\Robotfactorydemo.exe
+C:\Users\Dayashan\Documents\SA inclass\Robotfactorydemo\Robotfactorydemo\bin\Debug\Robotfactorydemo.pdb
+C:\Users\Dayashan\Documents\SA inclass\Robotfactorydemo\Robotfactorydemo\obj\Debug\Robotfactorydemo.csproj.AssemblyReference.cache
+C:\Users\Dayashan\Documents\SA inclass\Robotfactorydemo\Robotfactorydemo\obj\Debug\Robotfactorydemo.csproj.CoreCompileInputs.cache
+C:\Users\Dayashan\Documents\SA inclass\Robotfactorydemo\Robotfactorydemo\obj\Debug\Robotfactorydemo.exe
+C:\Users\Dayashan\Documents\SA inclass\Robotfactorydemo\Robotfactorydemo\obj\Debug\Robotfactorydemo.pdb
